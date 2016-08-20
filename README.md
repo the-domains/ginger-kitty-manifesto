@@ -1,0 +1,1 @@
+# ginger-kitty-manifesto
