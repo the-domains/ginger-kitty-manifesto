@@ -1,3 +1,4 @@
+layout_spectrum: 0.3271863549016416
 typography_spectrum: 0.24214976001530886
 color:
   brandStrength: 0.9053012719377875
@@ -5,11 +6,9 @@ color:
   saturation: 0.27972981287166476
   rhythmicContrast: 0.5419520714785904
   brandColors:
-    - '#FFFFFF'
-    - '#F7963C'
-    - '#000000'
-    - '#858585'
-    - '#4D4D4D'
-layout_spectrum: 0.3271863549016416
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Ginger Kitty Manifesto
-title: Come Be Weird With Us!
